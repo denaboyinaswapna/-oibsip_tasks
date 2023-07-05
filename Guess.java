@@ -1,8 +1,8 @@
-package com.Manju.numberguess;
+package oasiss;
 import java.util.*;
 import javax.swing.*;
 import java.util.Random;
-public class Guess {
+public class Numberguessing {
 	public static void main(String[] args) {
 		Random random = new Random();
 		Scanner sc = new Scanner(System.in);

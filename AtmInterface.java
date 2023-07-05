@@ -1,6 +1,6 @@
-package com.java.atm;
+package atmintf;
 import java.util.*;
-public class AtmInterface {
+public class Atminterface {
 	Scanner sc = new Scanner(System.in);
 	int balance,withdraw,deposit,transfer;
 	String thistory = "";
